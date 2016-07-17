@@ -12,7 +12,7 @@ from six.moves.urllib.request import urlretrieve
 from six.moves import cPickle
 
 To fix the import issue, had to go to<b>
-     Project --> PyDev - Interpreter/Grammar-->Under Interpreter click... "Click here to configure an interpreter not listed" --> Forced Builtins --> Click "New" --> Type "six" and click OK.
+     Project --> PyDev - Interpreter/Grammar-->Under Interpreter click... "Click here to configure an interpreter not listed" --> Forced Builtins --> Click "New" --> Type "six" and click OK.</b>
 
 While executing the program, there was an error:
 <br>
